@@ -14,3 +14,5 @@ Scikit-learn – Machine learning library used for model training and evaluation
 Pandas & NumPy – Data processing and numerical operations
 Joblib – Model serialization
 HTML/CSS – For the frontend web form
+# OUTPUT
+<img width="931" height="883" alt="image" src="https://github.com/user-attachments/assets/778466d5-c857-41f6-a0b9-4d630d820c6d" />
