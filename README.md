@@ -1,4 +1,17 @@
 # OPTIMIZATION-MODEL
+"COMPANY":CODTECH IT SOLUTIONS
+
+"NAME":V HARSHA VARDHAN
+
+"Intern ID": CT08DF756
+
+"DOMAIN": Data Science
+
+"DURATION": 8 WEEKS
+
+"MENTOR": NEELA SANTHOSH
+
+
 # 🧬 Cancer Prediction Web Application
 This project is a machine learning-based web application designed to predict whether a tumor is benign or malignant based on various medical input features. It is built using Python and deployed using the Flask framework, offering a simple and intuitive web interface where users can input tumor data and receive predictions in real-time. The machine learning model used in this project is trained on the widely used Breast Cancer Wisconsin Diagnostic Dataset.
 
